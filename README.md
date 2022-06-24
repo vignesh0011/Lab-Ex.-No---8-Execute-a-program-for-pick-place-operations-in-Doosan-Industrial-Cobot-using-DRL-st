@@ -28,11 +28,7 @@ Sensors: You can think of sensors as the eyes of the robots. The sensors do the 
 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
-
-
 Procedure:
-
-
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 3)Move to poin1 using move J
@@ -40,17 +36,15 @@ Procedure:
 
 
 ## Program 
-// Roll no:
 
-//Name:
-MoveJ ................
+![2](https://user-images.githubusercontent.com/74660507/175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea.jpeg)
+
 
 ## output : 
+
+![1](https://user-images.githubusercontent.com/74660507/175454442-e723be1f-1c43-4c07-97d7-835787d1e83d.jpeg)
 
 
 ## Results: 
 
-
-
-
-
+Thus, program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
